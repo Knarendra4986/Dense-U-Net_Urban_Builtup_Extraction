@@ -26,13 +26,6 @@ Format: PNG/TIFF with pixel sizes from 256×256 to 512×512.
 
 Masks: Built-up (1) and non-built-up (0) classes.
 
-🛠 Installation
-bash
-Copy
-Edit
-# Clone the repository
-git clone https://github.com/yourusername/urban-dense-unet.git
-cd urban-dense-unet
 
 # Install dependencies
 pip install -r requirements.txt
@@ -88,7 +81,5 @@ Edit
 ├── models/             # Dense U-Net implementation
 ├── requirements.txt    # Dependencies
 └── README.md           # Documentation
-👥 Contributors
-Your Name – Model development, experimentation, and evaluation.
 
-Team Members – Dataset preparation, preprocessing, and testing.
+
